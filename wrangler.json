@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test-cloudflare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "760a013f-5cf3-4727-91b0-ab8609996f59",
+      "database_name": "sweet-disk-1dec-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
